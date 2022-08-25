@@ -1,2 +1,2 @@
-!["Todolist logo"]("public/assets/checklist.png")
+!["Todolist logo"](public/assets/checklist.png)
 # Todolist
